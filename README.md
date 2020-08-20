@@ -43,7 +43,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📥 Executar esse projeto no seu computador
 
-- Clonar Repositório: `git clone https://github.com/dxwebster/NLW2-Proffy.git`
+- Clonar Repositório: `git clone git@github.com:Marxneves/NLW-02.git`
 
 Ir para a pasta 'web' para rodar o front-end, ou ir para pasta 'server' para rodar o back-end:
 
